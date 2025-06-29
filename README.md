@@ -15,8 +15,8 @@ Understanding public employee compensation is vital for ensuring transparency, a
 # 📁 Dataset Information
 
 This dataset typically includes: <br>
-- Employee_details: EmployeeName, JobTitle, Year <br>
-- Salary_details: BasePay, OvertimePay, Benefits, TotalPay <br>
+- Employee_details- EmployeeName, JobTitle, Year <br>
+- Salary_details- BasePay, OvertimePay, Benefits, TotalPay <br>
 <br>
 
 # 🎯 Features
